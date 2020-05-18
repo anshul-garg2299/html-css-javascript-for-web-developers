@@ -8,7 +8,7 @@ Homepage on coursera.org").
 ## Assignments
 
 ### Module 2
-* [Assignment description](./assignment%20descriptions/module2-assignment/Assignment-2.md)
+* [Assignment description](https://github.com/anshul-garg2299/html-css-javascript-for-web-developers/blob/master/assignment%20descriptions/module-2-assignment/Assignment-2.md)
 * [Solution](https://anshul-garg2299.github.io/html-css-javascript-for-web-developers/module2-solution/)
 
 ### Module 3
@@ -16,7 +16,7 @@ Homepage on coursera.org").
 * [Full Solution (including all the optional parts)](https://anshul-garg2299.github.io/html-css-javascript-for-web-developers/module3-solution/)
 
 ### Module 4
-* [Assignment description](./descriptions/assignment4/Assignment-4.md)
+* [Assignment description](https://github.com/anshul-garg2299/html-css-javascript-for-web-developers/blob/master/assignment%20descriptions/module-4-assignment/Assignment-4.md)
 * [Solution](https://anshul-garg2299.github.io/html-css-javascript-for-web-developers/module4-solution/harder/)
 
 ### Module 5
