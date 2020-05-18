@@ -8,7 +8,7 @@ Homepage on coursera.org").
 ## Assignments
 
 ### Module 2
-* [Assignment description](./descriptions/assignment2/Assignment-2.md)
+* [Assignment description](./assignment%20descriptions/assignment2/Assignment-2.md)
 * [Solution](https://anshul-garg2299.github.io/html-css-javascript-for-web-developers/module2-solution/)
 
 ### Module 3
