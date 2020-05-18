@@ -21,4 +21,4 @@ Homepage on coursera.org").
 
 ### Module 5
 * [Assignment description](./descriptions/assignment5/Assignment-5.md)
-* [Solution] https://anshul-garg2299.github.io/html-css-javascript-for-web-developers/module5-solution/
+* [Solution](https://anshul-garg2299.github.io/html-css-javascript-for-web-developers/module5-solution/)
