@@ -19,3 +19,6 @@ Homepage on coursera.org").
 * [Assignment description](./descriptions/assignment4/Assignment-4.md)
 * [Solution](https://anshul-garg2299.github.io/html-css-javascript-for-web-developers/module4-solution/harder/)
 
+### Module 5
+* [Assignment description](./descriptions/assignment5/Assignment-5.md)
+* [Solution] https://anshul-garg2299.github.io/html-css-javascript-for-web-developers/module5-solution/
